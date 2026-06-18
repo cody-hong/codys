@@ -125,7 +125,5 @@ agy
 
 ## 참고
 
-- `prompt.md`에는 복사해서 바로 붙여넣을 수 있는 통합 프롬프트가 들어 있습니다.
-- `skills/codybot/SKILL.md`에는 실제 코치 규칙이 들어 있습니다.
-- `GEMINI.md`와 `commands/codybot.toml`은 Gemini CLI용 구성입니다.
-- `.claude-plugin/`은 Claude Code 플러그인용 메타데이터입니다.
+- Cli 설치 없이 프롬프트로만 사용을 원하시면 [prompt.md]https://github.com/cody-hong/codybot/blob/main/prompt.md 클릭 후 복사 붙여넣기 !
+
