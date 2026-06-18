@@ -72,6 +72,34 @@ gemini extensions install https://github.com/cody-hong/codybot
 /codybot
 ```
 
+### Antigravity CLI (`agy`) 사용자 가이드
+
+Gemini CLI가 종료된 환경을 고려해 `agy`에서도 `codybot`을 사용할 수 있도록 안내합니다.
+
+#### 1. Antigravity CLI 실행하기
+
+터미널을 열고 아래 명령어를 입력해 `agy` 대화창으로 진입합니다.
+
+```bash
+agy
+```
+
+#### 2. 대화창에서 설치 요청하기
+
+대화창이 열리면 아래처럼 GitHub 주소를 주고 설치를 요청합니다.
+
+```text
+이 GitHub 저장소에서 코디봇 플러그인 설치해줘: https://github.com/cody-hong/codybot
+```
+
+#### 3. 코디봇 실행하기
+
+설치가 끝나면 대화창에 아래 명령어를 입력합니다.
+
+```text
+/codybot
+```
+
 ## 기본 동작
 
 `/codybot`을 입력하면 먼저 학습 레벨을 고르게 안내합니다.
